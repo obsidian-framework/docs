@@ -1,4 +1,4 @@
-# obsidian-docs
+# Obsidian Docs
 
 Documentation source for the [Obsidian](https://github.com/obsidian-framework) Java web framework.
 
